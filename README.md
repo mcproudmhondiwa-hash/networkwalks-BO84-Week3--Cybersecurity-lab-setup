@@ -12,11 +12,11 @@ I used the password to Open the encrypted PDF <img width="1366" height="768" alt
 <img width="1366" height="768" alt="jonny 6" src="https://github.com/user-attachments/assets/2e740583-1cdf-4db0-b2b3-9c34eaceacc2" />
 
 
-The second tool i used to crack the password was the NetworkWalks tool
+The second tool I used to crack the password was the NetworkWalks tool
 I Downloaded the encrypted PDF file to my laptop from the lab page:
 then I Opened the Networkwalks Hash Calculator in my web browser:<img width="1366" height="768" alt="NW 1" src="https://github.com/user-attachments/assets/f97deff1-ecd4-41af-83fe-de6919c2928b" />
 <img width="1366" height="768" alt="NW 2" src="https://github.com/user-attachments/assets/b2d88ae0-3178-4e46-8a2b-5fd8dcd1c0e1" />
-Then i Copird the full hash value and
-Ten I Open the Networkwalks Password Cracker in my web browser:<img width="1366" height="768" alt="NW 3" src="https://github.com/user-attachments/assets/7a60f873-cd26-4f51-8261-751f70d094ac" />
-and I Pasted the hash value into the Password Cracker and i start the attack 
+Then I Copied the full hash value and
+Then I Open the Networkwalks Password Cracker in my web browser:<img width="1366" height="768" alt="NW 3" src="https://github.com/user-attachments/assets/7a60f873-cd26-4f51-8261-751f70d094ac" />
+and I Pasted the hash value into the Password Cracker and I start the attack 
 <img width="1366" height="768" alt="NW 4" src="https://github.com/user-attachments/assets/7b0a2eef-6754-455d-95ab-893bcffa96bf" />
